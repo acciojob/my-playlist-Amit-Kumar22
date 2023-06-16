@@ -7,13 +7,13 @@ h1,h2{
 }
 .player_one, .player_two{
 	background-color:white;
-	color:black;
 }
 div.player_two {
 	text-align: center;
 }
 a:link {
       text-decoration: none;
+	  color: black;
 }
 ul{
 	list-style-type: none;  
